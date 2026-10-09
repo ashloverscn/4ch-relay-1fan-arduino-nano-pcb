@@ -16903,7 +16903,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "NC"
+	(gr_text "NO"
 		(at 97.805 40.235 90)
 		(layer "F.SilkS")
 		(uuid "6c2cd169-5938-4ce6-9a16-4cb6c5645b1f")
@@ -16939,7 +16939,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "NC"
+	(gr_text "NO"
 		(at 121.14 40.3125 90)
 		(layer "F.SilkS")
 		(uuid "91463489-8884-4a5b-8afa-faf7b2253283")
@@ -16975,7 +16975,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "NC"
+	(gr_text "NO"
 		(at 144.055 40.235 90)
 		(layer "F.SilkS")
 		(uuid "fb80b0ab-8517-497c-8cee-09865720c55c")
@@ -17011,7 +17011,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "NC"
+	(gr_text "NO"
 		(at 167.465 40.235 90)
 		(layer "F.SilkS")
 		(uuid "a2d1be0a-a65d-44c0-a8ca-b09d7c894856")
