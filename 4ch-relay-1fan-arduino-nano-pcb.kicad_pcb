@@ -17145,6 +17145,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Arduino_Nano_v3.x"
+		(at 128.66 122.73 0)
+		(layer "F.SilkS")
+		(uuid "0edc2191-fdc7-4eac-bda8-7786c88148df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "G S1 S2 S3 S4 DN UP"
 		(at 135.63 144.02 0)
 		(layer "F.SilkS")
